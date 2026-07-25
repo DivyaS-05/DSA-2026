@@ -23,3 +23,5 @@ class Solution {
         return s.length()==i ;
     }
 }
+Time complexity =O(N) n-> length of string t
+space complexity -O(1)
